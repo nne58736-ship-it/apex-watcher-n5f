@@ -1,0 +1,12 @@
+{
+  "name": "apex-watcher-n5f",
+  "version": "1.0.0",
+  "description": "CLI tool by @nne58736-ship-it",
+  "bin": {
+    "apex-watcher-n5f": "./bin/cli.js"
+  },
+  "type": "module",
+  "author": "nne58736-ship-it",
+  "license": "MIT",
+  "dependencies": {}
+}
